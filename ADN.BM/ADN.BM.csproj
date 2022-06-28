@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ADN.DM\ADN.DM.csproj" />
+    <ProjectReference Include="..\ADN.DT\ADN.DT.csproj" />
+    <ProjectReference Include="..\ADN.SUP\ADN.SUP.csproj" />
+  </ItemGroup>
+
+</Project>

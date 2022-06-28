@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\bin\Release\net5.0\ADN.SUP.deps.json
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\bin\Release\net5.0\ADN.SUP.dll
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\bin\Release\net5.0\ref\ADN.SUP.dll
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\bin\Release\net5.0\ADN.SUP.pdb
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ADN.SUP.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ADN.SUP.SUPProcedures.resources
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ADN.SUP.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ADN.SUP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ADN.SUP.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ADN.SUP.AssemblyInfo.cs
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ADN.SUP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ADN.SUP.dll
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ref\ADN.SUP.dll
+C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.SUP\obj\Release\net5.0\ADN.SUP.pdb
