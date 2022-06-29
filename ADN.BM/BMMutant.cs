@@ -38,9 +38,9 @@ namespace ADN.BM
                                 }
                             }
 
-                            int Oblicua = AlgoritmoMutant(matrix, cantidad, cantidad, "Oblicua");
-                            int Horizontal = AlgoritmoMutant(matrix, cantidad, cantidad, "Horizontal");
-                            int Vertical = AlgoritmoMutant(matrix, cantidad, cantidad, "Vertical");
+                            int Oblicua = AlgoritmoMutant(matrix, cantidad/2, cantidad/2, "Oblicua");
+                            int Horizontal = AlgoritmoMutant(matrix, cantidad, cantidad/2, "Horizontal");
+                            int Vertical = AlgoritmoMutant(matrix, cantidad/2, cantidad, "Vertical");
                             if (Oblicua > 0 || Horizontal > 0 || Vertical > 0)
                             {
                                 data.isMutante = true;
