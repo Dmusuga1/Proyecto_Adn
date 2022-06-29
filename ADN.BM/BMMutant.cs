@@ -13,35 +13,36 @@ namespace ADN.BM
         {
             try
             {
-                string[,] matrix;
+                string[,] matriz;
                 DTParameter data = new DTParameter();
 
                 if (dna.dna != null)
                 {
+                    int columnas = dna.dna.Length;
                     char[] CountCharacters = dna.dna[0].ToCharArray();
-                    int cantidad = CountCharacters.Length;
+                    int filas = CountCharacters.Length;
                     data.adn = string.Join("", dna.dna);
                     data.isMutante = false;
-                    if (cantidad > 0)
+                    if (filas > 0)
                     {
-                        if (cantidad > 3 && dna.dna.Length > 3)
+                        if (filas > 3 && columnas > 3)
                         {
                             //Crear matriz
-                            matrix = new string[cantidad, cantidad];
+                            matriz = new string[columnas, filas];
                             int count = 0;
                             foreach (var item in dna.dna)
                             {
                                 char[] characters = item.ToCharArray();
                                 for (int j = 0; j < characters.Length; j++)
                                 {
-                                    matrix[count, j] = characters[j].ToString();
+                                    matriz[count, j] = characters[j].ToString();
                                 }
                                 count = count + 1;
                             }
 
-                            int Oblicua = AlgoritmoMutant(matrix, cantidad-3, cantidad-3, "Oblicua");
-                            int Vertical = AlgoritmoMutant(matrix, cantidad-3, cantidad, "Vertical");
-                            int Horizontal = AlgoritmoMutant(matrix, dna.dna.Length, cantidad - 3, "Horizontal");
+                            int Oblicua = AlgoritmoMutant(matriz, filas - 3, filas - 3, "Oblicua");
+                            int Vertical = AlgoritmoMutant(matriz, columnas - 3, filas, "Vertical");
+                            int Horizontal = AlgoritmoMutant(matriz, columnas, filas - 3, "Horizontal");
 
                             if (Oblicua > 0 || Horizontal > 0 || Vertical > 0)
                             {

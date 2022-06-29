@@ -13,7 +13,6 @@ namespace Tests
     public class TestStat
     {
         private BMMutant _obj;
-        //[DataRow(40,100, 0.4)]
         [TestMethod]
         public void Stats( )
         {
