@@ -15,7 +15,7 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "stringConnectionSQL": "Data Source=projectadn-server.database.windows.net;Initial Catalog=Database-ADN;User ID=Administrador;Password=Prueba123;MultipleActiveResultSets=True;Connect Timeout=3000;"
+        "stringConnectionSQL": "Data Source=projectadn-server.database.windows.net;Initial Catalog=Database_ADN;User ID=Administrador;Password=Prueba123;MultipleActiveResultSets=True;Connect Timeout=3000;"
       }
     },
     "ADN.API": {
