@@ -105,7 +105,7 @@ namespace Tests
         }
 
         [TestMethod]
-        public void TrueMutant5X5_DetectarHumano()
+        public void FalseMutant5X5_DetectarHumano()
         {
             _obj = new BMMutant();
             //arrange -> Variables

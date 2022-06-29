@@ -13,24 +13,25 @@ namespace Tests
     public class TestStat
     {
         private BMMutant _obj;
-        [DataRow(40,100, 0.4)]
+        //[DataRow(40,100, 0.4)]
         [TestMethod]
-        public void Stats(int count_mutant, int count_human, decimal ratio )
+        public void Stats( )
         {
+            //Para esta prueba se requiere datos de la base de datos
             _obj = new BMMutant();
             //arrange -> Variables
             
             DTStats data = new DTStats();
-            data.count_human_dna = count_human;
-            data.count_mutant_dna = count_mutant;
-            data.ratio = Convert.ToDecimal(ratio);
+            data.count_human_dna = 6;
+            data.count_mutant_dna = 7;
+            data.ratio = Convert.ToDecimal(1.2);
             DTStats expect = data;
 
             //act
             var response = _obj.stat();
 
             //Assert -> Evaluar respuestas
-            Assert.AreEqual(expect, response);
+            Assert.AreEqual(expect.ratio, response.ratio);
         }
     }
 }
