@@ -86,7 +86,7 @@ namespace Tests
 
 
         [TestMethod]
-        public void TrueMutant6X6_DetectarHumano()
+        public void FalseMutant6X6_DetectarHumano()
         {
             _obj = new BMMutant();
             //arrange -> Variables
@@ -95,7 +95,7 @@ namespace Tests
             ArrayAdn = new string[] { "CAGTCA", "GTCAGT", "CAGTCA", "GTCAGT", "CAGTCA", "GTCAGT" };
             dna.dna = ArrayAdn;
 
-            HttpStatusCode expect = HttpStatusCode.OK;
+            HttpStatusCode expect = HttpStatusCode.Forbidden;
 
             //act
             var response = _obj.DetectarMutant(dna);
@@ -114,7 +114,7 @@ namespace Tests
             ArrayAdn = new string[] { "CATTA", "GGTCT", "TTATG", "CTTAG", "CGTAT" };
             dna.dna = ArrayAdn;
 
-            HttpStatusCode expect = HttpStatusCode.OK;
+            HttpStatusCode expect = HttpStatusCode.Forbidden;
 
             //act
             var response = _obj.DetectarMutant(dna);

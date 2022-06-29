@@ -16,7 +16,7 @@ namespace ADN.BM
                 string[,] matrix;
                 DTParameter data = new DTParameter();
 
-                if (dna.dna != null )
+                if (dna.dna != null)
                 {
                     char[] CountCharacters = dna.dna[0].ToCharArray();
                     int cantidad = CountCharacters.Length;
@@ -26,21 +26,23 @@ namespace ADN.BM
                     {
                         if (cantidad > 3 && dna.dna.Length > 3)
                         {
+                            //Crear matriz
                             matrix = new string[cantidad, cantidad];
-                            for (int i = 0; i < cantidad; i++)
+                            int count = 0;
+                            foreach (var item in dna.dna)
                             {
-                                char[] characters = dna.dna[i].ToCharArray();
-                                string charsStr = new string(characters);
-
+                                char[] characters = item.ToCharArray();
                                 for (int j = 0; j < characters.Length; j++)
                                 {
-                                    matrix[i, j] = characters[j].ToString();
+                                    matrix[count, j] = characters[j].ToString();
                                 }
+                                count = count + 1;
                             }
 
-                            int Oblicua = AlgoritmoMutant(matrix, cantidad/2, cantidad/2, "Oblicua");
-                            int Horizontal = AlgoritmoMutant(matrix, cantidad, cantidad/2, "Horizontal");
-                            int Vertical = AlgoritmoMutant(matrix, cantidad/2, cantidad, "Vertical");
+                            int Oblicua = AlgoritmoMutant(matrix, cantidad-3, cantidad-3, "Oblicua");
+                            int Vertical = AlgoritmoMutant(matrix, cantidad-3, cantidad, "Vertical");
+                            int Horizontal = AlgoritmoMutant(matrix, dna.dna.Length, cantidad - 3, "Horizontal");
+
                             if (Oblicua > 0 || Horizontal > 0 || Vertical > 0)
                             {
                                 data.isMutante = true;
@@ -108,10 +110,10 @@ namespace ADN.BM
 
                 return contador;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
 
-                throw;
+                throw ex;
             }
         }
 
