@@ -22,3 +22,15 @@ C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.DM\obj\Debug\net5.0\
 C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.DM\obj\Debug\net5.0\ADN.DM.dll
 C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.DM\obj\Debug\net5.0\ref\ADN.DM.dll
 C:\Users\Admin\Documents\Proyectos_2022\ADN\Project_ADN\ADN.DM\obj\Debug\net5.0\ADN.DM.pdb
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\bin\Debug\net5.0\ADN.DM.deps.json
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\bin\Debug\net5.0\ADN.DM.dll
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\bin\Debug\net5.0\ref\ADN.DM.dll
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\bin\Debug\net5.0\ADN.DM.pdb
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\obj\Debug\net5.0\ADN.DM.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\obj\Debug\net5.0\ADN.DM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\obj\Debug\net5.0\ADN.DM.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\obj\Debug\net5.0\ADN.DM.AssemblyInfo.cs
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\obj\Debug\net5.0\ADN.DM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\obj\Debug\net5.0\ADN.DM.dll
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\obj\Debug\net5.0\ref\ADN.DM.dll
+C:\Users\Admin\Documents\Proyectos_2022\Proyecto_Adn\ADN.DM\obj\Debug\net5.0\ADN.DM.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gpVacx+Y3WIAfqct5kR99DobI3UbRvY6nDFFEAm33H6BfiHbOZrW+l0wG/3DZv+UBcYdmxlGJidzfGEsqwUefQ==",
+  "dgSpecHash": "APvrGuy/3V/ihzAURgNIMJToX9EV+jKrFj/TquSpmjlyroa5OWRnISdvZ37qS5cYYhLM7aCN5UmLsy7P4Lr1fA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.BM\\ADN.BM.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.BM\\ADN.BM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\insight.database\\6.3.10\\insight.database.6.3.10.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\insight.database.configuration\\6.3.10\\insight.database.configuration.6.3.10.nupkg.sha512",

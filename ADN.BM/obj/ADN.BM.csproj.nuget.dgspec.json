@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.BM\\ADN.BM.csproj": {}
+    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.BM\\ADN.BM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.BM\\ADN.BM.csproj": {
+    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.BM\\ADN.BM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.BM\\ADN.BM.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.BM\\ADN.BM.csproj",
         "projectName": "ADN.BM",
-        "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.BM\\ADN.BM.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.BM\\ADN.BM.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.BM\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.BM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,14 +32,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DM\\ADN.DM.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DM\\ADN.DM.csproj"
+              "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DM\\ADN.DM.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DM\\ADN.DM.csproj"
               },
-              "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DT\\ADN.DT.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DT\\ADN.DT.csproj"
+              "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DT\\ADN.DT.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DT\\ADN.DT.csproj"
               },
-              "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.SUP\\ADN.SUP.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.SUP\\ADN.SUP.csproj"
+              "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.SUP\\ADN.SUP.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.SUP\\ADN.SUP.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DM\\ADN.DM.csproj": {
+    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DM\\ADN.DM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DM\\ADN.DM.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DM\\ADN.DM.csproj",
         "projectName": "ADN.DM",
-        "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DM\\ADN.DM.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DM\\ADN.DM.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DM\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DT\\ADN.DT.csproj": {
+    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DT\\ADN.DT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DT\\ADN.DT.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DT\\ADN.DT.csproj",
         "projectName": "ADN.DT",
-        "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DT\\ADN.DT.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DT\\ADN.DT.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.DT\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.DT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.SUP\\ADN.SUP.csproj": {
+    "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.SUP\\ADN.SUP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.SUP\\ADN.SUP.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.SUP\\ADN.SUP.csproj",
         "projectName": "ADN.SUP",
-        "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.SUP\\ADN.SUP.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.SUP\\ADN.SUP.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\ADN\\Project_ADN\\ADN.SUP\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Proyectos_2022\\Proyecto_Adn\\ADN.SUP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
