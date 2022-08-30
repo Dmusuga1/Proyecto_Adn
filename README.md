@@ -18,6 +18,8 @@ Entregable:
   
   ![image](https://user-images.githubusercontent.com/61803104/176367235-ff7aa734-885b-40ad-b9d0-21f2f482f9c0.png)
   
+  El proyecto contiene por defecto la base de datos que se encuentran  publicada en azure. Las credenciales se encuentran en el documento de instrucciones enviado en el correo
+  
   -Ejecutar con IIS Express 
   
   ![image](https://user-images.githubusercontent.com/61803104/176367615-e81d9462-b6bf-42b6-bb7f-0aefa56a2042.png)
